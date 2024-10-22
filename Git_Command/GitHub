@@ -1,0 +1,4 @@
+URL = github.com/[ID]/[RepositoryName]
+
+원격 저장소 연결하기
+$ git remote add origin [주소]
