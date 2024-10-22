@@ -15,3 +15,8 @@ $ git commit
 수정모드 없이 바로 커밋
 $ git commit -m "[커밋 메세지 입력]"
 
+롤백하는법 (checkout)
+$ git log (커밋 로그 확인)
+-> 커밋 로그에서 커밋 주소 확인
+$ git checkout [커밋 주소]
+-> 일부만 입력할 수 있음
