@@ -20,3 +20,6 @@ $ git log (커밋 로그 확인)
 -> 커밋 로그에서 커밋 주소 확인
 $ git checkout [커밋 주소]
 -> 일부만 입력할 수 있음
+
+$ git branch -M main
+-> 기본 브런치 이름을 main으로 변경
