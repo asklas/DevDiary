@@ -26,3 +26,7 @@ $ git branch -M main
 
 $ git push -u origin main
 브런치 변경내용 원격브런치로 푸쉬
+
+깃 add를 잘못했다면?
+-> git reset [이름]
+
