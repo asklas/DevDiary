@@ -1,0 +1,17 @@
+$ git config --global user.email "asklas+jyjy0372@gmail.com"
+$ git config --global user.name "asklas"
+
+config 정보 보기
+$ git config --list
+
+커밋하기
+$ git add [파일 이름]
+$ git commit
+-> 커밋모드 진입 (VI 편집기)
+-> [I]입력으로 Insert 모드 진입
+수정 메세지 입력
+-> [ESC] > [:wq] 입력으로 저장 및 커밋
+
+수정모드 없이 바로 커밋
+$ git commit -m "[커밋 메세지 입력]"
+

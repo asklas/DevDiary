@@ -1,0 +1,29 @@
+깃 명령어
+
+1. ls: 디렉토리의 파일 목록을 보여줍니다.
+ 예: ls -l (자세한 정보 포함)
+
+2. cd: 디렉토리를 변경합니다.
+ 예: cd /home/user
+
+3. pwd: 현재 작업 중인 디렉토리의 경로를 출력합니다.
+
+4. cp: 파일이나 디렉토리를 복사합니다.
+ 예: cp source.txt destination.txt
+
+5. mv: 파일이나 디렉토리를 이동하거나 이름을 변경합니다.
+ 예: mv oldname.txt newname.txt
+
+6. rm: 파일이나 디렉토리를 삭제합니다.
+ 예: rm file.txt (주의: 복구 불가)
+
+7. mkdir: 새로운 디렉토리를 생성합니다.
+ 예: mkdir newfolder
+
+8. rmdir: 비어 있는 디렉토리를 삭제합니다.
+
+9. chmod: 파일이나 디렉토리의 권한을 변경합니다.
+ 예: chmod 755 file.txt
+
+10. man: 명령어의 매뉴얼 페이지를 보여줍니다.
+ 예: man ls (ls 명령어에 대한 설명)
